@@ -13,17 +13,34 @@ function addTask() {
 
     li.innerHTML = `
         <span onclick="toggleTask(this)">${taskText}</span>
-        <button class="delete-btn" onclick="deleteTask(this)">X</button>
+        <div class="buttons">
+            <button class="edit-btn" onclick="editTask(this)">Edit</button>
+            <button class="delete-btn" onclick="deleteTask(this)">X</button>
+        </div>
     `;
 
     taskList.appendChild(li);
     taskInput.value = "";
 }
 
+// Delete task
 function deleteTask(button) {
-    button.parentElement.remove();
+    button.parentElement.parentElement.remove();
 }
 
+// Toggle completed
 function toggleTask(task) {
     task.parentElement.classList.toggle("completed");
+}
+
+// Edit task
+function editTask(button) {
+    const li = button.parentElement.parentElement;
+    const span = li.querySelector("span");
+    const currentText = span.textContent;
+
+    const newText = prompt("Update your task:", currentText);
+    if (newText !== null && newText.trim() !== "") {
+        span.textContent = newText.trim();
+    }
 }
