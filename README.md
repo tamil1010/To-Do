@@ -20,6 +20,7 @@ A simple and interactive To-Do List application developed to help users manage d
 📂 Project Structure
 
 ToDoList/
+
 ├── index.html      
 ├── style.css        
 ├── script.js        
