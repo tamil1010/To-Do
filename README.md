@@ -4,27 +4,21 @@ A simple and interactive To-Do List application developed to help users manage d
 
 🚀 Features
 
-Add new tasks
-
-View all tasks in a list
-
-Update existing tasks
-
-Delete completed or unwanted tasks
-
-Responsive and interactive user interface
+🔹Add new tasks
+🔹View all tasks in a list
+🔹Update existing tasks
+🔹Delete completed or unwanted tasks
+🔹Responsive and interactive user interface
 
 🛠 Technologies Used
 
-HTML
-
-CSS
-
-JavaScript
-
-DOM Manipulation
+- HTML
+- CSS
+- JavaScript
+- DOM Manipulation
 
 📂 Project Structure
+ 
 ToDoList/
 │
 ├── index.html          # Main web page
@@ -34,24 +28,20 @@ ToDoList/
 
 ▶ How to Run
 
-Open the project folder.
+1.Open the project folder.
 
-Open index.html in your preferred web browser.
+2.Open index.html in your preferred web browser.
 
-Start adding, editing, or deleting tasks.
+3.Start adding, editing, or deleting tasks.
 
-No installation is required – this is a front-end web application.
+4.No installation is required – this is a front-end web application.
 
 🎯 Learning Outcomes
 
-Hands-on experience with HTML, CSS, and JavaScript
-
-Understanding of DOM manipulation
-
-Building a responsive and interactive web application
-
-Implementation of CRUD operations in a front-end environment
+🔹Hands-on experience with HTML, CSS, and JavaScript
+🔹Understanding of DOM manipulation
+🔹Building a responsive and interactive web application
+🔹Implementation of CRUD operations in a front-end environment
 
 👨‍💻 Author
-
 Tamilvani S
