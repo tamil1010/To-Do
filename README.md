@@ -4,11 +4,11 @@ A simple and interactive To-Do List application developed to help users manage d
 
 🚀 Features
 
-🔹Add new tasks
-🔹View all tasks in a list
-🔹Update existing tasks
-🔹Delete completed or unwanted tasks
-🔹Responsive and interactive user interface
+- Add new tasks
+- View all tasks in a list
+- Update existing tasks
+- Delete completed or unwanted tasks
+- Responsive and interactive user interface
 
 🛠 Technologies Used
 
@@ -38,10 +38,10 @@ ToDoList/
 
 🎯 Learning Outcomes
 
-🔹Hands-on experience with HTML, CSS, and JavaScript
-🔹Understanding of DOM manipulation
-🔹Building a responsive and interactive web application
-🔹Implementation of CRUD operations in a front-end environment
+- Hands-on experience with HTML, CSS, and JavaScript
+- Understanding of DOM manipulation
+- Building a responsive and interactive web application
+- Implementation of CRUD operations in a front-end environment
 
 👨‍💻 Author
 Tamilvani S
