@@ -18,13 +18,12 @@ A simple and interactive To-Do List application developed to help users manage d
 - DOM Manipulation
 
 📂 Project Structure
- 
 ToDoList/
-│
-├── index.html          # Main web page
-├── style.css           # Styling for the app
-├── script.js           # JavaScript logic
-└── README.md           # Project documentation
+├── index.html       # Main web page
+├── style.css        # Styling for the app
+├── script.js        # JavaScript logic
+└── README.md        # Project documentation
+
 
 ▶ How to Run
 
